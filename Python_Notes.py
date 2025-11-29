@@ -5,12 +5,6 @@
 #     print("Odd")
 # message = "Even" if num % 2 == 0 else "Odd"
 # print(message)
-#from IPython.testing.tools import printed_msg
-#from pygments.util import duplicates_removed
-from multiprocessing.connection import answer_challenge
-
-from nbclient.exceptions import timeout_err_msg
-from prompt_toolkit.shortcuts import clear
 
 #H O M E W O R K #
 
